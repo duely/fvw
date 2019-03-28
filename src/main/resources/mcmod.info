@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "FVW",
+    "name": "Force Void World",
+    "description": "Forces dedicated servers to start the world with \"voidworld\"",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "assets/fvw/textures/logo.png",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/duely/fvw",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge"
+    ]
+  }
+]
